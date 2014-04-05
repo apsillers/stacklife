@@ -63,6 +63,8 @@ While the client-side markdown is designed to fit inside of a Stack Exchange pro
 [![](http://l.apsillers.com/65)](http://l.apsillers.com/w65)
 [![](http://l.apsillers.com/66)](http://l.apsillers.com/w66)
 
+(Note that this example server is set to redirect requests to my Stack Overflow profile.)
+
 ## Server setup
 
 1. After downloading the code, run `npm install` inside the project directory to install Express.
