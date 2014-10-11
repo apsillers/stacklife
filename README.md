@@ -77,11 +77,11 @@ The example below is fully interactive.
 
 ## Client setup
 
-1. In `client.txt`, replace `${host}` with the scheme and hostname of your server, with no trailing slash, e.g., `http://example.com`.
+1. In `client.md`, replace each instance of `${host}` with the scheme and hostname of your server, with no trailing slash, e.g., `http://example.com`.
 
 2. If deploying to Stack Exchange, ensure your hostname is short enough to fit in the 3000 character limit. Also, you can save space by using `//` as the scheme (e.e., `//example.com` instead of `http://example.com`) which will use the scheme of the containing page. (Note that this means that your server must support HTTPS whenever Stack Exchange upgrades to HTTPS, or if a user is using [HTTPS Everywhere](https://www.eff.org/https-everywhere).)
 
-3. Copy the contents of `client.txt` to your profile or other page.
+3. Copy the contents of `client.md` to your profile or other page.
 
 ## How it works
 
