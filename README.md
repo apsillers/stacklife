@@ -15,7 +15,7 @@ While the client-side markdown is designed to fit inside of a Stack Exchange pro
 [![](http://l.apsillers.com:8001/05)](http://l.apsillers.com:8001/w05)
 [![](http://l.apsillers.com:8001/06)](http://l.apsillers.com:8001/w06)
 &nbsp; **Controls:**<br>
-[![](http://l.apsillers.com:8001/10)](http://l.apsillers.com:8001/w00)
+[![](http://l.apsillers.com:8001/10)](http://l.apsillers.com:8001/w10)
 [![](http://l.apsillers.com:8001/11)](http://l.apsillers.com:8001/w11)
 [![](http://l.apsillers.com:8001/12)](http://l.apsillers.com:8001/w12)
 [![](http://l.apsillers.com:8001/13)](http://l.apsillers.com:8001/w13)
