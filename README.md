@@ -7,6 +7,8 @@ While the client-side markdown is designed to fit inside of a Stack Exchange pro
 
 ## Example
 
+The example below is fully interactive.
+
 [![](http://l.apsillers.com:8001/00)](http://l.apsillers.com:8001/w00)
 [![](http://l.apsillers.com:8001/01)](http://l.apsillers.com:8001/w01)
 [![](http://l.apsillers.com:8001/02)](http://l.apsillers.com:8001/w02)
