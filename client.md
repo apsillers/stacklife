@@ -6,7 +6,7 @@
 [![](${host}/05)](${host}/w05)
 [![](${host}/06)](${host}/w06)
 &nbsp; **Controls:**<br>
-[![](${host}/10)](${host}/w00)
+[![](${host}/10)](${host}/w10)
 [![](${host}/11)](${host}/w11)
 [![](${host}/12)](${host}/w12)
 [![](${host}/13)](${host}/w13)
